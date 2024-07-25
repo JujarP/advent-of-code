@@ -1,0 +1,4 @@
+Project files for the Advent of Code challenges.
+https://adventofcode.com/
+
+Jujar Panesar
